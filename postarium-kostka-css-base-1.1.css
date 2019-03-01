@@ -1,0 +1,84 @@
+#copy-link-clipboard {
+  display: block;
+  margin-top: 12px; }
+
+.dice-before-test {
+  margin-top: 10px;
+  text-align: center; }
+.dice-before-test,
+.dice-cont a {
+  display: block;
+  text-decoration: none;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto; }
+
+.dice-cont a {
+  background-color: #757067;
+  margin-bottom: 10px; }
+.dice-before-test > div {
+  color: #000; }
+.dice-before-test > div,
+.dice-before-test > a {
+  font-size: 11px;
+  font-family: "Francois One"; }
+.dice-before-test > a {
+  display: block;
+  color: #333; }
+
+.dice-title {
+  text-align: center;
+  font-family: "Francois One";
+  padding-top: 10px;
+  padding-bottom: 5px;
+  color: #eee;
+  font-size: 18px;
+  text-transform: uppercase; }
+.dice-desc,
+.dice-type,
+.dice-values {
+  font-family: "Open Sans";
+  text-align: center; }
+.dice-desc {
+  text-align: justify;
+  padding: 2px 16px;
+  color: #c2bbb0;
+  font-size: 13px; }
+.dice-type {
+  padding: 6px 3px;
+  margin-top: -20px;
+  color: #c2bbb0;
+  font-size: 10px; }
+.dice-values {
+  padding-bottom: 10px;
+  color: #fff;
+  font-size: 14px; }
+.dice-place {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto; }
+.dice-place {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: transparent;
+  background-size: 100%; }
+.dice-place[data-number='2'] {
+  background-image: url("https://i.imgur.com/4MHd8pA.png"); }
+.dice-place[data-number='4'] {
+  background-image: url("https://i.imgur.com/TENSWMf.png"); }
+.dice-place[data-number='6'] {
+  background-image: url("https://i.imgur.com/bchL8xe.png"); }
+.dice-place[data-number='8'] {
+  background-image: url("https://i.imgur.com/r4Q17a0.png"); }
+.dice-place[data-number='10'] {
+  background-image: url("https://i.imgur.com/hv9cdmh.png"); }
+.dice-place[data-number='100'] {
+  background-image: url("https://i.imgur.com/pyK9tU1.png"); }
+.dice-place[data-number='12'] {
+  background-image: url("https://i.imgur.com/CIvnWMy.png"); }
+.dice-place[data-number='20'] {
+  background-image: url("https://i.imgur.com/QDMTWQt.png"); }
+.dice-place[data-number='1'], .dice-place.dice-custom {
+  background-image: url("https://i.imgur.com/I12v1yi.png"); }
+.dice-place.dice-error {
+  background-image: url("https://i.imgur.com/EYT17R1.png"); }

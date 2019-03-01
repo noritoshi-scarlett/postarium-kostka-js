@@ -1,0 +1,24 @@
+{
+  "name": "postarium-kostka-js",
+  "version": "1.1.0",
+  "description": "jQuery Script for Postarium Kostka",
+  "main": "postarium-kostka-js-1.1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noritoshi-scarlett/postarium-kostka-js.git"
+  },
+  "keywords": [
+    "jQuery",
+    "JS",
+    "Postarium"
+  ],
+  "author": "Noritoshi",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/noritoshi-scarlett/postarium-kostka-js/issues"
+  },
+  "homepage": "https://github.com/noritoshi-scarlett/postarium-kostka-js#readme"
+}
